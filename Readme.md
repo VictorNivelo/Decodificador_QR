@@ -1,4 +1,4 @@
-# Decodificador QR Profesional
+# Decodificador QR
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3.7%2B-blue" alt="Badge Python">
