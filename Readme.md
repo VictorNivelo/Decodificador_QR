@@ -1,10 +1,10 @@
 # Decodificador QR
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://img.shields.io/badge/Python-3.7%2B-blue" alt="Badge Python">
     <img src="https://img.shields.io/badge/PyQt5-5.15%2B-green" alt="Badge PyQt5">
     <img src="https://img.shields.io/badge/OpenCV-4.5%2B-red" alt="Badge OpenCV">
-</div>
+</div> -->
 
 <!-- ![Badge License](https://img.shields.io/badge/License-MIT-yellow) -->
 
